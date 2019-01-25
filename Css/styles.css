@@ -1,0 +1,125 @@
+body{
+    background-color: rgba(243, 243, 243, 0.925);
+
+}
+#nav{
+    background-color:#FFFF;
+}
+
+/*En tête*/
+h1{
+    font-family: 'Titan One', cursive;
+    font-size: 1.5rem;
+    color: coral;
+}
+
+#jumbo{
+
+   background-color: rgba(229, 115, 115, 0.911);
+   
+   
+}
+#Tjumbo{
+   font-family: 'Amatic SC', cursive;
+   text-align: center;
+   color: #FAFAFA;
+   text-shadow: 2px 2px 2px black;
+
+}
+/*Fin en tête*/
+/*Section 1 Profil*/
+h2{
+    font-family: 'Vidaloka', serif;
+    font-size: 2rem;  
+}
+
+#avatar{
+    
+    box-shadow: 3px 3px 2px;
+}
+/*Fin S1 Profil*/
+/*Autre*/
+hr{
+    border: 0;
+    border: 2px dashed rgb(245, 136, 85);
+    color: rgb(209, 126, 87);
+    width: 400px;
+}
+ 
+.progress{
+    width: 400px;
+    height: 25px;
+    display: -webkit-inline-box;
+}
+
+#lien{
+    text-decoration: none;
+    color: bisque;
+}
+
+a:hover{
+    color: rgb(236, 203, 171);
+}
+
+.a{
+    text-decoration: none;
+    color: #E57373;
+}
+/*Fin autre*/
+/*Section Projet*/
+article
+{
+    padding-bottom: 20px;
+}
+.article-caption
+{
+position: absolute;
+bottom: 16px;
+max-width: 90%;
+text-align: center;
+background-color: rgba(200,200,200,0.5);
+
+}
+
+.article-img
+{
+width: 100%; 
+max-height: 400px;
+object-fit: cover;
+}
+
+.article-caption a
+{
+color: white;
+}
+.article-caption a:hover{
+    color: black;
+}
+
+/*Fin section Projet*/
+/*Contact*/
+#face{
+    text-decoration: none;
+    color: aliceblue;
+}
+#twitter{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+/*Fin contact*/
+
+
+
+/*Footer*/
+#footer{
+    background-color: rgba(252, 176, 151, 0.685);
+}
+
+#copy{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 1rem;
+}
+/*Fin footer/*
