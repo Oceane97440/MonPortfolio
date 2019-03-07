@@ -3,9 +3,11 @@ body{
 
 }
 #nav{
-    background-color:#FFFF;
+    background-color:rgba(0, 0, 0, 0.664);
 }
-
+li.nav-link{
+    color:coral;
+}
 /*En tête*/
 h1{
     font-family: 'Titan One', cursive;
