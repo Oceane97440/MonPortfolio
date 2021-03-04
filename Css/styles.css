@@ -92,10 +92,10 @@ object-fit: cover;
 
 .article-caption a
 {
-color: white;
+color: rgb(14, 4, 4);
 }
 .article-caption a:hover{
-    color: black;
+    color: rgb(224, 45, 45);
 }
 
 /*Fin section Projet*/
