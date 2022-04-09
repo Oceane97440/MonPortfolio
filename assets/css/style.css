@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 2px solid #fdfdfd;
 }
 #header .profile h1 {
   font-size: 24px;
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/background.jpeg") top center;
+  background: url("../img/cover-image.png") top center;
   background-size: cover;
 }
 #hero:before {
